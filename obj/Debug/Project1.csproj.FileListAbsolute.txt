@@ -1,0 +1,14 @@
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.exe.config
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.exe
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.pdb
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.exe
+D:\Design_Patterns\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\2017496114\Desktop\My_Portfolio\Rantlhago(2017496114)_Project1\Rantlhago(2017496114)_Project1\Project1\Project1\obj\Debug\Project1.pdb
